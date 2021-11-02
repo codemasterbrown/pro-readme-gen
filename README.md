@@ -10,6 +10,7 @@ This project is a command line application that automatically generates a profes
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Author Info](#about-author)
 
 
 ## Technologies
@@ -31,3 +32,7 @@ After installing the dependencies, run the application with
 
 `
 node index.js
+
+## About Author
+
+Author: https://github.com/codemasterbrown
